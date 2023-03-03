@@ -16,6 +16,7 @@ main {
   display: inline-block;
   padding: 15px;
   position: relative;
+  margin-top: 2%;
 }
 
 .pokedex {
